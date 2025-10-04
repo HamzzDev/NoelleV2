@@ -1,0 +1,6 @@
+file '/home/container/lib/frame0.mp4'
+duration 0.5
+file '/home/container/lib/frame1.mp4'
+duration 0.5
+file '/home/container/lib/frame1.mp4'
+duration 2
